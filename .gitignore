@@ -1,0 +1,6 @@
+# ignore all .txt files
+*.txt
+
+# files and folders
+.idea
+.DS_Store
